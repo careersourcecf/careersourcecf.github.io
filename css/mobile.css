@@ -1,0 +1,20 @@
+@media (max-width:1300px ) {
+    .landing-title {
+        font-size:3.5em;
+    }
+}
+@media (max-width:900px ) {
+    .landing-title {
+        font-size:3em;
+    }
+}
+@media (max-width:600px ) {
+    .landing-title {
+        font-size:2em;
+    }
+}
+@media (max-width:400px ) {
+    .landing-title {
+        font-size:1.5em;
+    }
+}
